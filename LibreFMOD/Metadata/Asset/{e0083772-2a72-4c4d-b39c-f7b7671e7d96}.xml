@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EncodableAsset" id="{e0083772-2a72-4c4d-b39c-f7b7671e7d96}">
+		<property name="assetPath">
+			<value>Prop/Campfire/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{edca5a81-690f-455f-8fe8-09eacaaa2dd0}</destination>
+		</relationship>
+	</object>
+</objects>

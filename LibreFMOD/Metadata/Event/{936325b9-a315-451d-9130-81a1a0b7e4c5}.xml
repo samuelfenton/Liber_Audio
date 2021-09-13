@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="Event" id="{936325b9-a315-451d-9130-81a1a0b7e4c5}">
 		<property name="name">
-			<value>Campfire</value>
+			<value>Event_Prop_CampFire</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -96,7 +96,7 @@
 			<value>35.781292517006804</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{ec889312-354f-4cba-ac89-f07a13fd45bb}</destination>
+			<destination>{0378b164-d410-4aae-be85-5901cd876af4}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{60705cde-239a-4687-b550-93c9c5cda7b7}">
@@ -120,6 +120,7 @@
 		<property name="length">
 			<value>35.781292517006804</value>
 		</property>
+		<property name="name" />
 		<relationship name="timeline">
 			<destination>{75c9516a-cf2d-4938-b432-98c3fc1726f2}</destination>
 		</relationship>
