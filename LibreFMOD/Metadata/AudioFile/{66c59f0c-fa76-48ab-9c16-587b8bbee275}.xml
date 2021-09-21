@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
-	<object class="AudioFile" id="{362819bf-757a-4036-82ca-7d2ac967a5ac}">
+	<object class="AudioFile" id="{66c59f0c-fa76-48ab-9c16-587b8bbee275}">
 		<property name="assetPath">
-			<value>Enviroment/Tree/Enviroment_Tree_LeafRustling.mp3</value>
+			<value>Prop/Bird/Crow/Prop_Bird_Crow02.wav</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>48</value>
+			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<property name="length">
-			<value>311.88</value>
+			<value>1.8614965986394558</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{edca5a81-690f-455f-8fe8-09eacaaa2dd0}</destination>

@@ -8,7 +8,7 @@
 			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{2a13288a-1074-4a21-82f6-52cc754b4788}</destination>
+			<destination>{9d9838c2-e33d-44eb-9253-ec07dba13d59}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{5bf4eebe-a20f-464b-8d00-58f919385e31}</destination>
@@ -120,7 +120,6 @@
 		<property name="length">
 			<value>35.781292517006804</value>
 		</property>
-		<property name="name" />
 		<relationship name="timeline">
 			<destination>{75c9516a-cf2d-4938-b432-98c3fc1726f2}</destination>
 		</relationship>
